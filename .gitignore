@@ -1,0 +1,20 @@
+# Ignorar archivos de Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Ignorar archivos de Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Ignorar archivos de IDE
+.idea/
+*.iml
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
+
